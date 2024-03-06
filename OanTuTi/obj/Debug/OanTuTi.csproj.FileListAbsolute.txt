@@ -1,0 +1,10 @@
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\bin\Debug\OanTuTi.exe.config
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\bin\Debug\OanTuTi.exe
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\bin\Debug\OanTuTi.pdb
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.csproj.AssemblyReference.cache
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.Properties.Resources.resources
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.csproj.GenerateResource.cache
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.csproj.CoreCompileInputs.cache
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.exe
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.pdb
+C:\Users\PhuongNam\source\repos\OanTuTi\OanTuTi\obj\Debug\OanTuTi.OanTuTi.resources
